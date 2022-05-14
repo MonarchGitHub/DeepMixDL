@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MonarchGitHub/DeepMixDL">
-    <img src="https://tenor.com/view/anime-music-phone-gif-10411175" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/878814660386754641/940207089232535672/ecb591b4a1189481ca5bcee9090d52bf.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
