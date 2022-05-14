@@ -1,3 +1,7 @@
+body {
+  background-color: rgb(138, 72, 199);
+}
+
 .main_title {
   position: absolute;
   left: 10vw;
