@@ -65,8 +65,21 @@
   <section id="hero" class="d-flex align-items-center">
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
       <h1>Music Generation through RNN-LSTM deep learning model</h1>
+
       <h2>Press the button to start generating music</h2>
-      <a href="#about" class="btn-get-started scrollto">Generate Music</a>
+      <button class="btn-get-started scrollto btn_start" onclick="initModel()">Generate Music</button>
+      <h1 id="logDisplay"></h1>
+      <h1 id="logDisplaynew">Build Successful</h1>
+      <h1 id="logDisplaynew">Crunching the Data...</h1>
+      <h1 id="logDisplaynew">Parsing Output</h1>
+      <div class="results">
+        <h2 id="feedback">The model generated {1} files</h2>
+        <audio controls class="music_audio" id="music_audio">
+          <source src="https://cdn.discordapp.com/attachments/856800279411032067/976667882270388314/Gen_Music_3.mp3" />
+        </audio>
+      </div>
+
+      <!-- <a href="#about" class="btn-get-started scrollto">Generate Music</a> -->
     </div>
   </section><!-- End Hero -->
 
@@ -261,10 +274,6 @@
                 20BCS6784- Shrishty<br>
                 20BCS6785- Shelabh<br>
               </p>
-              <audio controls>
-                <source
-                  src="https://cdn.discordapp.com/attachments/856800279411032067/976667882270388314/Gen_Music_3.mp3" />
-              </audio>
 
             </div>
           </div>
@@ -280,6 +289,7 @@
   <div id="preloader"></div>
 
   <!-- Vendor JS Files -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.0/anime.min.js"></script>
   <script src="Anime.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
