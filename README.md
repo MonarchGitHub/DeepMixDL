@@ -1,23 +1,21 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/MonarchGitHub/DeepMixDL">
-    <img src="https://cdn.discordapp.com/attachments/878814660386754641/940207089232535672/ecb591b4a1189481ca5bcee9090d52bf.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/MonarchGitHub/DeepMix/main/assets/img/about.jpg?token=GHSAT0AAAAAABKGH3OII5MUUKZ4HYHHPQPWYUJ5YTQ" alt="Logo" >
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Music Generation Through Deep Learning</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome DL model to generate simple music
     <br />
     <a href="https://github.com/MonarchGitHub/DeepMixDL/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
@@ -55,8 +53,8 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Music is a collection of tones of different frequencies. So, the Automatic Music Generation is a process of  composing a short piece of music with minimum human intervention.
+Long Short Term Memory Model, popularly known as LSTM, is a variant of Recurrent Neural Networks (RNNs) that is capable of capturing the long term dependencies in the input sequence. LSTM has a wide range of applications in Sequence-to-Sequence modeling tasks like Speech Recognition, Text Summarization, Video Classification, and so on.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -85,19 +83,13 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
+2. Install NPM packages
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
 3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
-   ```
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -105,7 +97,6 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ## Usage
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -142,9 +133,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/monarch_sv) - email@example.com
+Monarch - [@monarch_sv](https://twitter.com/monarch_sv)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/MonarchGitHub/DeepMixDL)
+Project Link: [https://github.com/MonarchGitHub/DeepMixDL](https://github.com/MonarchGitHub/DeepMixDL)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -166,16 +157,12 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/Mo
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[forks-shield]:https://img.shields.io/github/forks/MonarchGitHub/DeepMixDL?style=for-the-badge
+[forks-url]: https://github.com/MonarchGitHub/DeepMixDL/network/members
+[stars-shield]: https://img.shields.io/github/stars/MonarchGitHub/DeepMixDL?style=for-the-badge
+[stars-url]: https://github.com/MonarchGitHub/DeepMixDL/stargazers
+[issues-shield]:https://img.shields.io/github/issues/MonarchGitHub/DeepMixDL?style=for-the-badge
+[issues-url]: https://github.com/MonarchGitHub/DeepMixDL/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[license-url]: https://github.com/MonarchGitHub/DeepMixDL/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
