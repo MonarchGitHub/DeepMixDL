@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MonarchGitHub/DeepMixDL">
-    <img src="https://raw.githubusercontent.com/MonarchGitHub/DeepMix/main/assets/img/about.jpg?token=GHSAT0AAAAAABKGH3OII5MUUKZ4HYHHPQPWYUJ5YTQ" alt="Logo" >
+    <img src="https://cdn.discordapp.com/attachments/856800279411032067/979811325993693244/thumb-1920-975999.png" alt="Logo" >
   </a>
 
   <h3 align="center">Music Generation Through Deep Learning</h3>
